@@ -1,0 +1,14 @@
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\Punto1Taller\bin\Debug\Punto1Taller.exe.config
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\Punto1Taller\bin\Debug\Punto1Taller.exe
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\Punto1Taller\bin\Debug\Punto1Taller.pdb
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\Punto1Taller\obj\Debug\Punto1Taller.csprojAssemblyReference.cache
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\Punto1Taller\obj\Debug\Punto1Taller.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\Punto1Taller\obj\Debug\Punto1Taller.exe
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\Punto1Taller\obj\Debug\Punto1Taller.pdb
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\bin\Debug\Punto1Taller.exe.config
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\bin\Debug\Punto1Taller.exe
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\bin\Debug\Punto1Taller.pdb
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\obj\Debug\Punto1Taller.csprojAssemblyReference.cache
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\obj\Debug\Punto1Taller.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\obj\Debug\Punto1Taller.exe
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Punto1Taller\Punto1Taller\obj\Debug\Punto1Taller.pdb

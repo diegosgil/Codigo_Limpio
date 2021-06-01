@@ -1,0 +1,13 @@
+C:\Users\hp\Documents\universidad\tercer semestre\lenguajesDeProgramacion\punto4TallerLenguajes\bin\Debug\netcoreapp3.1\punto4TallerLenguajes.exe
+C:\Users\hp\Documents\universidad\tercer semestre\lenguajesDeProgramacion\punto4TallerLenguajes\bin\Debug\netcoreapp3.1\punto4TallerLenguajes.deps.json
+C:\Users\hp\Documents\universidad\tercer semestre\lenguajesDeProgramacion\punto4TallerLenguajes\bin\Debug\netcoreapp3.1\punto4TallerLenguajes.runtimeconfig.json
+C:\Users\hp\Documents\universidad\tercer semestre\lenguajesDeProgramacion\punto4TallerLenguajes\bin\Debug\netcoreapp3.1\punto4TallerLenguajes.runtimeconfig.dev.json
+C:\Users\hp\Documents\universidad\tercer semestre\lenguajesDeProgramacion\punto4TallerLenguajes\bin\Debug\netcoreapp3.1\punto4TallerLenguajes.dll
+C:\Users\hp\Documents\universidad\tercer semestre\lenguajesDeProgramacion\punto4TallerLenguajes\bin\Debug\netcoreapp3.1\punto4TallerLenguajes.pdb
+C:\Users\hp\Documents\universidad\tercer semestre\lenguajesDeProgramacion\punto4TallerLenguajes\obj\Debug\netcoreapp3.1\punto4TallerLenguajes.csprojAssemblyReference.cache
+C:\Users\hp\Documents\universidad\tercer semestre\lenguajesDeProgramacion\punto4TallerLenguajes\obj\Debug\netcoreapp3.1\punto4TallerLenguajes.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\universidad\tercer semestre\lenguajesDeProgramacion\punto4TallerLenguajes\obj\Debug\netcoreapp3.1\punto4TallerLenguajes.AssemblyInfo.cs
+C:\Users\hp\Documents\universidad\tercer semestre\lenguajesDeProgramacion\punto4TallerLenguajes\obj\Debug\netcoreapp3.1\punto4TallerLenguajes.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\universidad\tercer semestre\lenguajesDeProgramacion\punto4TallerLenguajes\obj\Debug\netcoreapp3.1\punto4TallerLenguajes.dll
+C:\Users\hp\Documents\universidad\tercer semestre\lenguajesDeProgramacion\punto4TallerLenguajes\obj\Debug\netcoreapp3.1\punto4TallerLenguajes.pdb
+C:\Users\hp\Documents\universidad\tercer semestre\lenguajesDeProgramacion\punto4TallerLenguajes\obj\Debug\netcoreapp3.1\punto4TallerLenguajes.genruntimeconfig.cache

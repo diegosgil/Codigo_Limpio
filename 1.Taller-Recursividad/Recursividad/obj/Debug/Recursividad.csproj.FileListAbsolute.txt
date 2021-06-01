@@ -1,0 +1,7 @@
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Recursividad\Recursividad\bin\Debug\Recursividad.exe.config
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Recursividad\Recursividad\bin\Debug\Recursividad.exe
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Recursividad\Recursividad\bin\Debug\Recursividad.pdb
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Recursividad\Recursividad\obj\Debug\Recursividad.csprojAssemblyReference.cache
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Recursividad\Recursividad\obj\Debug\Recursividad.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Recursividad\Recursividad\obj\Debug\Recursividad.exe
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\PrimerTaller\Recursividad\Recursividad\obj\Debug\Recursividad.pdb
