@@ -1,0 +1,10 @@
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\3. Programacion Visual\4.Taller\AhorroEPM_DOS\AhorroEPM\obj\Debug\AhorroEPM_DOS.csprojAssemblyReference.cache
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\3. Programacion Visual\4.Taller\AhorroEPM_DOS\AhorroEPM\obj\Debug\AhorroEPM.Form1.resources
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\3. Programacion Visual\4.Taller\AhorroEPM_DOS\AhorroEPM\obj\Debug\AhorroEPM.Properties.Resources.resources
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\3. Programacion Visual\4.Taller\AhorroEPM_DOS\AhorroEPM\obj\Debug\AhorroEPM_DOS.csproj.GenerateResource.cache
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\3. Programacion Visual\4.Taller\AhorroEPM_DOS\AhorroEPM\obj\Debug\AhorroEPM_DOS.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\3. Programacion Visual\4.Taller\AhorroEPM_DOS\AhorroEPM\obj\Debug\AhorroEPM.exe
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\3. Programacion Visual\4.Taller\AhorroEPM_DOS\AhorroEPM\obj\Debug\AhorroEPM.pdb
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\3. Programacion Visual\4.Taller\AhorroEPM_DOS\AhorroEPM\bin\Debug\AhorroEPM.exe.config
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\3. Programacion Visual\4.Taller\AhorroEPM_DOS\AhorroEPM\bin\Debug\AhorroEPM.exe
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\3. Programacion Visual\4.Taller\AhorroEPM_DOS\AhorroEPM\bin\Debug\AhorroEPM.pdb
