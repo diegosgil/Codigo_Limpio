@@ -1,0 +1,7 @@
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\Codigo limpio - Arreglos - Listas\2. Taller\Practica1\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\Codigo limpio - Arreglos - Listas\2. Taller\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\Codigo limpio - Arreglos - Listas\2. Taller\Practica1\Practica1\bin\Debug\Practica1.exe.config
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\Codigo limpio - Arreglos - Listas\2. Taller\Practica1\Practica1\bin\Debug\Practica1.exe
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\Codigo limpio - Arreglos - Listas\2. Taller\Practica1\Practica1\bin\Debug\Practica1.pdb
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\Codigo limpio - Arreglos - Listas\2. Taller\Practica1\Practica1\obj\Debug\Practica1.exe
+D:\UNIVERSIDAD DE MEDELLIN\4. SEMESTRE\Codigo limpio\Personal\Codigo limpio - Arreglos - Listas\2. Taller\Practica1\Practica1\obj\Debug\Practica1.pdb
